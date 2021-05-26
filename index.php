@@ -9,7 +9,7 @@
     <meta name="theme-color" content="#000000">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css"
-          integrity="sha256-L/WURKV2VuZXVlOGNadXpvZW1ZUWhOdz09=" crossorigin="0146290418" />
+          integrity="sha256-L/dc2ac1e6ff6f1ae20192285e9dea836633d600a0="crossorigin="anonymous"/>
     <link rel="stylesheet" href="assets/formvalidation/css/formValidation.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@sweetalert2/theme-dark@3/dark.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"/>
