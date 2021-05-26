@@ -1,0 +1,22 @@
+<style>
+.game-tab #tab-1.nav-link.active img {
+        content: url("files/design/6063655924bab.gif") !important;
+    }
+.game-tab #tab-2.nav-link.active img {
+        content: url("files/design/606365857be62.gif") !important;
+    }
+.game-tab #tab-3.nav-link.active img {
+        content: url("files/design/60249facce7fe.png") !important;
+    }
+.logo-frame {
+        background-image: url("files/design/602b277c558cc.gif") !important;
+    }
+.user-card {
+        background-image: url("files/design/60840b229392c.gif") !important;
+    }
+body {
+        background-image: url("files/design/60840a62e413b.gif") !important;
+        background-size: contain;
+    }
+</style>
+<body>
