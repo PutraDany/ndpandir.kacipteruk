@@ -9,7 +9,7 @@
     <meta name="theme-color" content="#000000">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css"
-          integrity="sha256-L/W5Wfqfa0sdBNIKN9cG6QA5F2qx4qICmU2VgLruv9Y=" crossorigin="anonymous" />
+          integrity="sha256-L/WURKV2VuZXVlOGNadXpvZW1ZUWhOdz09=" crossorigin="0146290418" />
     <link rel="stylesheet" href="assets/formvalidation/css/formValidation.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@sweetalert2/theme-dark@3/dark.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"/>
@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="assets/css/master.css?1621982356">
     <link rel="stylesheet" href="assets/css/chat.css?1621982356">
 
-    <title>justwin88</title>
+    <title>nd pandir88</title>
 </head><style>
         .game-tab #tab-1.nav-link.active img {
         content: url("files/design/6063655924bab.gif") !important;
